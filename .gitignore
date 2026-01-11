@@ -113,3 +113,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+
+# Cursor
+.cursor
+
+# Exlcude the output data folder
+.data/
